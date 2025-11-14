@@ -6,6 +6,7 @@ Este repositorio contiene las figuras complementarias que, por restricciones de 
 
 Contenido de las Figuras:
 1. Carpeta ***Fotometría***: **Diagramas Color-Magnitud (DCM) Completos**
+   
 DCM individuales para los 10 cúmulos abiertos estudiados: Alessi 18, Archinal 1, Berkeley 82, ESO 312-04, ESO 430-09, ESO 435-48, ESO 445-74, ESO 518-03, NGC 6204 y VdBH 92.
 
 * Ajustes de isócronas PARSEC mostrando la mejor solución para cada cúmulo
